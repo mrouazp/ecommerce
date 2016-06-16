@@ -194,7 +194,7 @@ div.main_menu ul li:last-child {
 .slider_three_img {
 	display: block;
 	float: left;
-	width: 50%;
+	width: 60%;
 	margin: 5% 0;
 }
 .slider_one_img img,
@@ -213,7 +213,7 @@ div.main_menu ul li:last-child {
 .slider_top_column {
 	display: block;
 	float: left;
-	width: 50%;
+	width: 40%;
 }
 .slider_top_column h2,
 .product_container h2,
